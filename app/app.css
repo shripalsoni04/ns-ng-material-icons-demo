@@ -1,0 +1,11 @@
+﻿@import '~/css/core.light.css';
+
+.mdi {
+  font-family: "Material Icons", "MaterialIcons-Regular";
+}
+
+.icons-container Label {
+  text-align: center;
+  font-size: 32;
+  vertical-align: center;
+}
